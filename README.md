@@ -1,5 +1,5 @@
 # Cats-and-Dogs-Image-Classification
 
-Used Pre trained Yolo-v3-tiny model
+Built a CNN model using tensorflow
 
-Weights and configuraion file on https://pjreddie.com/darknet/yolo/
+Dataset on https://www.kaggle.com/c/dogs-vs-cats
